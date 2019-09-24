@@ -1,0 +1,44 @@
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.exe.config
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.exe
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.pdb
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.Resources.resources
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.GenerateResource.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.exe
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.pdb
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/bin/Debug/Newtonsoft.Json.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/bin/Debug/Newtonsoft.Json.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNET developer (1)/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.CopyComplete
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.exe.config
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.exe
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.pdb
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/CsvHelper.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/Newtonsoft.Json.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/System.ValueTuple.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/Newtonsoft.Json.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/System.ValueTuple.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Debug/CsvHelper.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csprojAssemblyReference.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.Resources.resources
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.GenerateResource.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.CopyComplete
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.exe
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.pdb
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.exe.config
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.exe
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/GeneralKnowledge.Test.App.pdb
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/CsvHelper.dll
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/Newtonsoft.Json.dll
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/System.ValueTuple.dll
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/Newtonsoft.Json.xml
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/System.ValueTuple.xml
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/bin/Debug/CsvHelper.xml
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.exe.config
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.Resources.resources
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.GenerateResource.cache
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csproj.CopyComplete
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.exe
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.App.pdb
+/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/obj/Debug/GeneralKnowledge.Test.csprojAssemblyReference.cache

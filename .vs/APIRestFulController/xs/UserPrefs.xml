@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9BFF69DB-1AEE-4F87-AC6D-3A5487F354DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeneralKnowledge.Test/Tests/CsvProcessingTest.cs">
+    <Files>
+      <File FileName="APIRestFulController/Controllers/HomeController.cs" Line="24" Column="1" />
+      <File FileName="APIRestFulController/Controllers/AssetController.cs" />
+      <File FileName="GeneralKnowledge.Test/Tests/CsvProcessingTest.cs" Line="137" Column="6" />
+      <File FileName="GeneralKnowledge.Test/Resources/AssetImport.csv" />
+      <File FileName="GeneralKnowledge.Test/Tests/JsonReadingTest.cs" />
+      <File FileName="GeneralKnowledge.Test/Tests/RescaleImageTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIRestFulController" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../BruTest/CSVRead/Program.cs" line="19" offsetX="-1" offsetY="-1" expression="ResourceDirectoryPath" liveUpdate="False" />
+    <Watch file="../../../../BruTest/CSVRead/Program.cs" line="19" offsetX="-1" offsetY="-1" expression="ResourceDirectoryPath" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.APIRestFulController PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/APIRestFulController/Controllers/AssetController.cs" relfile="APIRestFulController/Controllers/AssetController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/APIRestFulController/Controllers/AssetController.cs" relfile="APIRestFulController/Controllers/AssetController.cs" line="28" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/APIRestFulController/Controllers/AssetController.cs" relfile="APIRestFulController/Controllers/AssetController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/APIRestFulController/Controllers/AssetController.cs" relfile="APIRestFulController/Controllers/AssetController.cs" line="40" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/Tests/CsvProcessingTest.cs" relfile="GeneralKnowledge.Test/Tests/CsvProcessingTest.cs" line="38" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/GeneralKnowledge.Test/Tests/CsvProcessingTest.cs" relfile="GeneralKnowledge.Test/Tests/CsvProcessingTest.cs" line="46" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/APIRestFulController/Controllers/AssetController.cs" relfile="APIRestFulController/Controllers/AssetController.cs" line="92" column="1" />
+      <Breakpoint file="/Users/renu/Projects/APIRestFulController/APIRestFulController/Controllers/AssetController.cs" relfile="APIRestFulController/Controllers/AssetController.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

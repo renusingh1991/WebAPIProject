@@ -1,0 +1,17 @@
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/GeneralKnowledge.Test.App.exe.config
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/GeneralKnowledge.Test.App.exe
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/GeneralKnowledge.Test.App.pdb
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/CsvHelper.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/Newtonsoft.Json.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/System.ValueTuple.dll
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/Newtonsoft.Json.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/System.ValueTuple.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/bin/Release/CsvHelper.xml
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.App.Resources.resources
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.csproj.GenerateResource.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.csproj.CopyComplete
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.App.exe
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.App.pdb
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.csprojAssemblyReference.cache
+/Users/renu/Desktop/Jobs/Style Labs/dotNETdeveloper1/hellobucket/GeneralKnowledge.Test/obj/Release/GeneralKnowledge.Test.App.exe.config
